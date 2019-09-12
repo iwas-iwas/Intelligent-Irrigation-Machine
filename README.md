@@ -38,7 +38,7 @@ Seaborn
     
 **- Conclusion**
 
-  - Summay
+  - Summary
   - Next steps
 
    
