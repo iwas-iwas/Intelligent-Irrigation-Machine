@@ -31,6 +31,10 @@ Seaborn
   - Does Batch Normalization improve the performance?
     - Introducing Batch Normalization
     - Visually comparing the model performance with and without batch normalization
+
+**- Final results: Interpreting Sigmoid Multi-Label Classification Output**
+
+- Engineer the model output and print the results in tables
     
 **- Conclusion**
 
