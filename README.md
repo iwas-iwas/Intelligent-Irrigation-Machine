@@ -21,7 +21,7 @@ Seaborn
   - Fit and evaluate first keras model
   - Visualize performance by plotting a validation accuracy learning curve
   
-**- Optimization - Can we increase the performance?**
+**- Optimization: Can we increase the performance?**
 
   - Do we need more data?
     - Visualize Accuracy with different train-test-splits
@@ -34,8 +34,9 @@ Seaborn
     
 **- Conclusion**
 
-    - Summary
-    - Next steps
+  - Summay
+  - Next steps
+
    
   
   
