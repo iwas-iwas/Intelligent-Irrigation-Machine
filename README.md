@@ -1,4 +1,6 @@
-# View Project: https://nbviewer.jupyter.org/github/iwasscience/Intelligent-Irrigation-Machine/blob/master/Intelligent_Irrigation_Machine.ipynb
+# View Project: 
+
+https://nbviewer.jupyter.org/github/iwasscience/Intelligent-Irrigation-Machine/blob/master/Intelligent_Irrigation_Machine.ipynb
 
 # Predictive Irrigation: Intelligent Irrigation Machine Project - Iwas Iwas
 
@@ -13,17 +15,17 @@ Seaborn
 
 ## Structure:
 
-**- Exploratory Data Analysis and Data Preprocessing**
+**Exploratory Data Analysis and Data Preprocessing**
 
   - Load, inspect and preprocess the dataset 
   
-**- A Beginning: Building first simple model**
+**A Beginning: Building first simple model**
 
   - Build and visualize first keras model 
   - Fit and evaluate first keras model
   - Visualize performance by plotting a validation accuracy learning curve
   
-**- Optimization: Can we increase the performance?**
+**Optimization: Can we increase the performance?**
 
   - Do we need more data?
     - Visualize Accuracy with different train-test-splits
@@ -34,11 +36,11 @@ Seaborn
     - Introducing Batch Normalization
     - Visually comparing the model performance with and without batch normalization
 
-**- Final results: Interpreting Sigmoid Multi-Label Classification Output**
+**Final results: Interpreting Sigmoid Multi-Label Classification Output**
 
 - Engineer the model output and print the results in tables
     
-**- Conclusion**
+**Conclusion**
 
   - Summary
   - Next steps
