@@ -2,8 +2,7 @@
 
 https://nbviewer.jupyter.org/github/iwasscience/Intelligent-Irrigation-Machine/blob/master/Intelligent_Irrigation_Machine.ipynb
 
-# Predictive Irrigation: Intelligent Irrigation Machine Project
-
+# Predictive Irrigation: Intelligent Irrigation Machine
 ![irrigation](Data/irrigation.jpg)
 
 ## Motivation:
